@@ -1,10 +1,7 @@
 ![ritikraj0315](https://github.com/ritikraj0315/ritikraj0315/blob/main/public/be_original.png)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=ritikraj0315&color=FAC151)
-![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)(https://github.com/natterstefan)
 ![portfolio](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)
-![newsletter](https://img.shields.io/badge/Newsletter-subscribe-%23FAC151.svg?logo=gmail&logoWidth=20)
-![youtuber](https://img.shields.io/badge/YouTuber-Follow%20Me-FAC151.svg?logo=youtube&logoWidth=20)
 
 <h1 align="center">Hi there, I'm Ritik 👋</h1>
 
