@@ -1,4 +1,4 @@
-[![ritikraj0315](https://res.cloudinary.com/dgqdvqyz3/image/upload/v1613901740/natterstefan/natterstefan-CI-1500x500.png)][1]
+[![ritikraj0315](https://github.com/ritikraj0315/ritikraj0315/blob/main/20231126_184610.png)][1]
 
 ### Hi there 👋
 
