@@ -1,4 +1,4 @@
-![ritikraj0315](https://github.com/ritikraj0315/ritikraj0315/blob/main/public/be_original.jpg)
+![ritikraj0315](https://github.com/ritikraj0315/ritikraj0315/blob/main/public/be_original-1500x500.jpg)
 
 ### Hi there 👋
 
