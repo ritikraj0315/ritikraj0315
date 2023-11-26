@@ -1,6 +1,6 @@
 ![ritikraj0315](https://github.com/ritikraj0315/ritikraj0315/blob/main/public/be_original.png)
 
-### Hi there 👋
+<h1 align="center">Hi there, I'm Ritik 👋</h1>
 
 - 🔭 I’m currently working on SpeedPe(My own payment app).
 - 🌱 I’m currently learning flutter
