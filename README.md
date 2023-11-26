@@ -5,8 +5,6 @@
 
 <h1 align="center">Hi there, I'm Ritik 👋</h1>
 
-![](https://visitcount.itsvg.in/api?id=ritikraj0315&label=Profile%20View%20Counter&color=0&icon=5&pretty=true)
-
 - 🔭 I’m currently working on SpeedPe(My own payment app).
 - 🌱 I’m currently learning flutter
 - 👯 I’m looking to collaborate with bank.
