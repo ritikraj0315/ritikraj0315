@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi there, I'm Ritik 👋</h1>
 
+![Visitor Count](https://profile-counter.glitch.me/{ritikraj0315}/count.svg)
+
 - 🔭 I’m currently working on SpeedPe(My own payment app).
 - 🌱 I’m currently learning flutter
 - 👯 I’m looking to collaborate with bank.
@@ -10,4 +12,3 @@
 - 📫 You can reach me at: rritik866@gmail.com
 - ⚡ Fun fact: Programmers spend 10% of their time coding and 90% of their time naming things. 😂
 
-- ![Visitor Count](https://profile-counter.glitch.me/{ritikraj0315}/count.svg)
