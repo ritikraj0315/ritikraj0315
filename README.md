@@ -1,3 +1,5 @@
+[![ritikraj0315](https://res.cloudinary.com/dgqdvqyz3/image/upload/v1613901740/natterstefan/natterstefan-CI-1500x500.png)][1]
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on SpeedPe(My own payment app).
